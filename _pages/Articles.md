@@ -1,6 +1,6 @@
 ---
 title: "Articles"
 permalink: /articles/
-layout: posts
+layout: single
 author_profile: true
 ---
