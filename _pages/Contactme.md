@@ -3,7 +3,7 @@ permalink: /contact/
 layout: single
 author_profile: true
 ---
-I’d love to hear from you 
+I’d love to hear from you.
 Whether it’s about collaborations, questions, or opportunities, feel free to reach out.
 
 **Email:** [akinyimarierose@gmail.com](mailto:akinyimarierose@gmail.com) 
