@@ -10,7 +10,7 @@ Whether it’s about collaborations, questions, or opportunities, feel free to r
 
 **LinkedIn:** [Marie Rose Akinyi](https://www.linkedin.com/in/marie-rose-akinyi/)
 
-**Github:** [Marie-rgb](https://github.com/Marie-rgb)) 
+**Github:** [Marie-rgb](https://github.com/Marie-rgb) 
 
 Or send me a message directly using the form below:
 <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
