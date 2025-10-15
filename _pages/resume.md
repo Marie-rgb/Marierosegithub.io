@@ -27,10 +27,10 @@ Detail-oriented **Systems Administrator** with hands-on experience in Linux envi
 
 ### **Systems Administrator** — *[Technology service Providers of Kenya (TESPOK)]*  
 *Jan 2023 – Date*  
--Manage the IXP manager by adding members, creating users, monitoring and observing client traffic frequently, and updating details.
--Assisting in email correspondence, mailing list management, support follow-up, and downtime notification.
--Manage the inventory, ensure all equipment is functional and accounted for, and frequent check-ups and maintenance of equipment, monitoring, and troubleshooting of equipment.
--Assist in the network configuration of core networks, and coordinate with clients to ensure the right configuration for peering connections.
+- Manage the IXP manager by adding members, creating users, monitoring and observing client traffic frequently, and updating details.
+- Assisting in email correspondence, mailing list management, support follow-up, and downtime notification.
+- Manage the inventory, ensure all equipment is functional and accounted for, and frequent check-ups and maintenance of equipment, monitoring, and troubleshooting of equipment.
+- Assist in the network configuration of core networks, and coordinate with clients to ensure the right configuration for peering connections.
 
 ### **Junior Developer Intern** — *[Oaknet Business]*  
 *Nov 2021 – Jan 2022*  
