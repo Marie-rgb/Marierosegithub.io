@@ -44,10 +44,10 @@ A clean, responsive website for registered members who need to keep track of the
 
 - 🧰 **Role:** Admin  
 - 🌐 **Tech Stack:** Linux, Apache, MySQL, PHP  
-- 📅 Used for live events — includes contact information, live traffic, and email notifications.  
+- 📅 Used for live events and includes contact information, live traffic, and email notifications.  
 - 🔄 Managed content updates and integrated a mailing list feature.
 
 ---
 
 ## 🛠️ What’s Next
-I’m currently expanding my skills in **network automation** and **cybersecurity** — stay tuned for more hands-on labs and secure web deployments.
+I’m currently expanding my skills in **network automation** and **cybersecurity**. Stay tuned for more hands-on labs and secure web deployments.
