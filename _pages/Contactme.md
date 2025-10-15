@@ -6,9 +6,8 @@ author_profile: true
 I’d love to hear from you 
 Whether it’s about collaborations, questions, or opportunities — feel free to reach out.
 
-📧 **Email:** akinyimarierose@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/marie-rose-akinyi/ 
-
+📧 **Email:** akinyimarierose@gmail.com(mailto: akinyimarierose@gmail.com) 
+💼 **LinkedIn:** Marie Rose Akinyi(https://www.linkedin.com/in/marie-rose-akinyi/)
 Or send me a message directly using the form below:
 <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
   <label>
