@@ -1,6 +1,6 @@
 ---
 title: "My Certifications"
 permalink: /certifications/
-layout: posts
+layout: single
 author_profile: true
 ---
