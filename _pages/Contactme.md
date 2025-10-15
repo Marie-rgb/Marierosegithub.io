@@ -1,6 +1,6 @@
 ---
 title: "Contact Me"
 permalink: /contact/
-layout: posts
+layout: single
 author_profile: true
 ---
