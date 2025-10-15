@@ -12,7 +12,7 @@ In this segment I was supposed to interrogate the network traffic with capture a
 ---
 
 ## Approach
-I first download the file and looked through just trying to understand what was happening exactly while referring to the cheat sheet that was provided for the particular assignment. For instance identifying the symbols used to mean different instances, for example, S to mean SYN and S. to mean SYN and ACK, and . to mean ACK. Therefore, I looked for a bit that showed this in that particular way. I was also able to identify the different IPs associated with these activities.
+I first downloaded the file and looked through, just trying to understand what was happening exactly, while referring to the cheat sheet that was provided for the particular assignment. For instance identifying the symbols used to mean different instances, for example, S to mean SYN and S. to mean SYN and ACK, and . to mean ACK. Therefore, I looked for a part that showed this in that particular way. I was also able to identify the different IPs associated with these activities.
 
 ---
 
