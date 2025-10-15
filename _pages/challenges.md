@@ -3,7 +3,6 @@ permalink: /challenges/
 layout: single
 author_profile: true
 ---
-
 ## Problem Statement
 In this segment I was supposed to interrogate the network traffic with capture and display filters in order to find out what the ports numbers that were used in first full TCP three-way handshake was. Specifying the client and server port numbers. I was to used a file that was provided to figure all these out.
 
@@ -30,6 +29,3 @@ I used the terminal and run the command tcpdump -r (file name) port (specified t
 
 ## Key Lessons Learned
 In this activity my take aways was the ability to identify key details in traffic passed through the network and in that way I will be able to spot irregularities in network traffic and prevent attacks in case of any that may be targeted.
-
----
-
