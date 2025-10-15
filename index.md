@@ -4,8 +4,7 @@ layout: single
 permalink: /
 author_profile: true
 ---
-
-Welcome 👋  
+##Welcome 👋  
 
 I'm a **Web Developer** and **Cybersecurity Enthusiast**, passionate about building secure and user-friendly digital experiences.  
 
