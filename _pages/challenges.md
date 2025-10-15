@@ -1,7 +1,10 @@
 ---
 permalink: /challenges/
 layout: single
+title: ""
 author_profile: true
+show_title: false
+
 ---
 ## Problem Statement
 In this segment I was supposed to interrogate the network traffic with capture and display filters in order to find out what the ports numbers that were used in first full TCP three-way handshake was. Specifying the client and server port numbers. I was to used a file that was provided to figure all these out.
