@@ -3,7 +3,6 @@ layout: single
 permalink: /projects/
 author_profile: true
 ---
-
 # 🌐 My Web Projects
 
 Here’s a selection of websites I’ve built and currently manage.  
