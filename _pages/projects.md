@@ -12,7 +12,7 @@ Each project reflects my growing skills in **web development**, **network engine
 
 ---
 
-## 1. [TESPOK](https://www.tespok.co.ke/)
+## [TESPOK](https://www.tespok.co.ke/)
 A modern company site showcasing IT solutions and services.
 
 - 🧰 **Role:** Developer & Site Manager  
@@ -22,7 +22,7 @@ A modern company site showcasing IT solutions and services.
 
 ---
 
-## 2. [Autism Marathon](https://autismmarathon.or.ke/)
+## [Autism Marathon](https://autismmarathon.or.ke/)
 A website showcasing the company's CRM that is held once every year to create awareness around Autism.
 
 - 🧰 **Role:** Full Site Setup & Maintenance  
@@ -32,7 +32,7 @@ A website showcasing the company's CRM that is held once every year to create aw
 
 ---
 
-## 3. [Kenya Peering Forum (KePF)](https://kepf.co.ke/)
+## [Kenya Peering Forum (KePF)](https://kepf.co.ke/)
 A platform that showcases an annual event that brings together key stakeholders in the ICT, Connectivity and datacenter industry to discuss emerging trends, opportunities and challenges in the Kenyan digital ecosystem.
 
 - 🧰 **Role:** Admin  
@@ -42,7 +42,7 @@ A platform that showcases an annual event that brings together key stakeholders 
 
 ---
 
-## 4. [KIXP (Kenya Internet Exchange Point) Manager](https://portal.kixp.or.ke/customer/details)
+## [KIXP (Kenya Internet Exchange Point) Manager](https://portal.kixp.or.ke/customer/details)
 A clean, responsive website for registered members who need to keep track of their events and updates.
 
 - 🧰 **Role:** Admin  
