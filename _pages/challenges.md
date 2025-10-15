@@ -25,7 +25,7 @@ I used the terminal and run the command tcpdump -r (file name) port (specified t
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="{{ '/assets/images/img5.png' | relative_url }}" alt="Alt text" width="300">
-  <img src="/assets/images/img6.png" alt="marie">
+  <img src="{{ '/assets/images/img6.png' | relative_url }}" alt="Alt text" width="300">
 </div>
 
 ---
