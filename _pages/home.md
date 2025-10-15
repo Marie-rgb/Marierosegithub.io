@@ -1,6 +1,8 @@
 ---
+layout: single
 permalink: /home/
 title: "Home"
+author_profile: true
 ---
 
 Hello, I'm Marie Rose   
