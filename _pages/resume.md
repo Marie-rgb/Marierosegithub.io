@@ -1,7 +1,9 @@
 ---
 permalink: /resume/
 layout: single
+title: ""
 author_profile: true
+show_title: false
 ---
 # **Marie Rose Akinyi**  
 📍 Nairobi, Kenya | 📧 akinyimarierose@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/marie-rose-akinyi/) | [GitHub](https://github.com/Marie-rgb)
