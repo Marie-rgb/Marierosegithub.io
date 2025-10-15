@@ -7,7 +7,5 @@ main:
     url: /certifications/
   - title: "Articles"
     url: /articles/
-  - title: "About Me"
-    url: /about/
   - title: "Contact"
     url: /contact/
