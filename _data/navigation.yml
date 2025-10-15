@@ -1,9 +1,11 @@
 main:
   - title: "Home"
     url: /
+  - title: "My Resume"
+    url: /resume/
   - title: "Projects"
     url: /projects/
-  - title: "Certifications"
-    url: /certifications/
+  - title: "Lab Challenges"
+    url: /challenges/
   - title: "Contact"
     url: /contact/
