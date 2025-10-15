@@ -3,7 +3,8 @@ layout: single
 permalink: /projects/
 author_profile: true
 ---
-# Here’s a selection of websites I’ve built and currently manage.  
+
+Here’s a selection of websites I’ve built and currently manage.  
 Each project reflects my growing skills in **web development**, **network engineering**, and **cybersecurity best practices**.
 
 ---
