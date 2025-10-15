@@ -23,9 +23,8 @@ I used the terminal and run the command tcpdump -r (file name) port (specified t
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
-  <img src="assets/images/img5.jpg" alt="image" width="400" style="border-radius: 8px;">
-  <img src="assets/images/img6.jpg" alt="image" width="400" style="border-radius: 8px;">
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img src="assets/images/img7.jpg" alt="marie" width="400" style="border-radius: 10px;">
 </div>
 
 ---
