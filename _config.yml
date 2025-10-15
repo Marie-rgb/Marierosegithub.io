@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Marie Rose Akinyi"
   avatar : "/assets/images/Marie.jpg"
-  bio    : "Systems Administrator | Network Engineering & Cybersecurity Enthusiast"
+  bio    : "Systems Administrator, Network Engineering & Cybersecurity Enthusiast"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
